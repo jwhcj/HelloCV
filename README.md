@@ -1,4 +1,3 @@
-# HelloCV
-1.OpenCV学习：https://www.yuque.com/yuqueyonghucagwxc/vtbi6b/sdg6bgh31py5uwwl?#《OpenCV学习》
-2.OpenCV测试：https://www.yuque.com/yuqueyonghucagwxc/vtbi6b/yn7k82nyvkm6n5h3?#《opencv测试》
-3.处理后的视频result.avi和代码test.cpp在main中(代码是在vscode中编写运行的)
+ # HelloCV
+1.https://www.yuque.com/yuqueyonghucagwxc/vtbi6b/xf61klb734kc1dr4
+2.https://www.yuque.com/yuqueyonghucagwxc/vtbi6b/rzbw22qxyuha971e?#《gazebo》
